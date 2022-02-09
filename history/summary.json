@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 461,
-    "timeWeek": 461,
-    "timeMonth": 461,
-    "timeYear": 461,
+    "time": 351,
+    "timeDay": 351,
+    "timeWeek": 351,
+    "timeMonth": 351,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1898,
-    "timeDay": 1898,
-    "timeWeek": 1898,
-    "timeMonth": 1898,
-    "timeYear": 1898,
+    "time": 1861,
+    "timeDay": 1861,
+    "timeWeek": 1861,
+    "timeMonth": 1861,
+    "timeYear": 1861,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/mail.t3s.mx",
     "slug": "correo-demo-t3-s",
     "status": "down",
-    "uptime": "11.22%",
-    "uptimeDay": "11.22%",
-    "uptimeWeek": "11.22%",
-    "uptimeMonth": "11.22%",
-    "uptimeYear": "11.22%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-09": 0
+      "2022-02-09": 16
     }
   }
 ]
