@@ -10,7 +10,7 @@ sites:
   - name: Correo Demo T3S
     url: https://mail.t3s.mx
 
-assignes: 
+assignees: 
   - manuelmotolina
   
 status-website:
