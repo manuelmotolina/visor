@@ -1,14 +1,14 @@
 # Change these first
 owner: manuelmotolina # Your GitHub organization or username, where this repository lives
-repo: visor # The name of this repository
+repo: upptime # The name of this repository
 
 sites:
   - name: Correo T3S
     url: https://correo.t3s.com.mx
   - name: Pagina WEB T3S
     url: https://www.t3s.com.mx
-  - name: Correo Demo T3S
-    url: https://mail.t3s.mx
+  - name: Correo Altas
+    url: https://mail.segurosatlas-informa.mx
 
 assignees: 
   - manuelmotolina
