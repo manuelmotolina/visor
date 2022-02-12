@@ -4,7 +4,7 @@
     "url": "https://correo.t3s.com.mx",
     "icon": "https://favicons.githubusercontent.com/correo.t3s.com.mx",
     "slug": "correo-t3-s",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 369,
     "timeMonth": 369,
     "timeYear": 369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   },
   {
     "name": "Pagina WEB T3S",
