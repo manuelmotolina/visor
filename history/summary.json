@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 412,
-    "timeDay": 132,
-    "timeWeek": 431,
-    "timeMonth": 421,
-    "timeYear": 412,
+    "time": 413,
+    "timeDay": 450,
+    "timeWeek": 426,
+    "timeMonth": 422,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2022-02-12": 61
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1770,
-    "timeDay": 1286,
-    "timeWeek": 1619,
-    "timeMonth": 1743,
-    "timeYear": 1770,
+    "time": 1771,
+    "timeDay": 1834,
+    "timeWeek": 1655,
+    "timeMonth": 1746,
+    "timeYear": 1771,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/mail.segurosatlas-informa.mx",
     "slug": "correo-altas",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 272,
-    "timeDay": 292,
-    "timeWeek": 273,
-    "timeMonth": 276,
-    "timeYear": 272,
+    "uptimeYear": "99.92%",
+    "time": 271,
+    "timeDay": 231,
+    "timeWeek": 260,
+    "timeMonth": 277,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2022-02-12": 46
     }
