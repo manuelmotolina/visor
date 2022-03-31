@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/correo.t3s.com.mx",
     "slug": "correo-t3-s",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 393,
-    "timeDay": 420,
-    "timeWeek": 301,
-    "timeMonth": 389,
-    "timeYear": 393,
+    "uptimeYear": "99.92%",
+    "time": 392,
+    "timeDay": 354,
+    "timeWeek": 339,
+    "timeMonth": 387,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2022-02-12": 61
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1745,
-    "timeDay": 1766,
-    "timeWeek": 1638,
-    "timeMonth": 1689,
-    "timeYear": 1745,
+    "time": 1743,
+    "timeDay": 1639,
+    "timeWeek": 1653,
+    "timeMonth": 1687,
+    "timeYear": 1743,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 270,
-    "timeDay": 301,
-    "timeWeek": 262,
-    "timeMonth": 266,
+    "timeDay": 289,
+    "timeWeek": 255,
+    "timeMonth": 267,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2022-02-12": 46
